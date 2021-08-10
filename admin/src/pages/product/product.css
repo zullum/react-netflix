@@ -52,6 +52,9 @@
 .productName {
   font-weight: 600;
 }
+.productInfoKey{
+  margin-right: 20px;
+}
 
 .productInfoBottom {
   margin-top: 10px;
